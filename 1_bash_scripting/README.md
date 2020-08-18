@@ -5,7 +5,7 @@
 
 ## Requirements 
 
-Yuou shoud install ImageMagick
+You shoud install ImageMagick
 
 ## Usage
 
